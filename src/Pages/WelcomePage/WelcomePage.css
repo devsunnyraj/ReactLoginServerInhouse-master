@@ -1,0 +1,17 @@
+.welcomeText{
+    color: white;
+    font-size: 2.5rem;
+    font-family: sans-serif;
+}
+
+.welcomeTextName{
+    color: red;
+}
+
+.logOutButton{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: -190px;
+    width: 80px;
+    height: 20px;
+}

@@ -1,0 +1,40 @@
+#RegisterMainDiv {
+    width: 400px;
+    height: 300px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    /* background-color: red; */
+}
+
+.input-field{
+    position: relative;
+    height: 23px;
+    width: 70%;
+    /* background-color: red; */
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+}
+
+.signuptext{
+    font-size: 10px;
+    color: white;
+}
+
+.statustextFail{
+    font-size: 10px;
+    color: red;
+}
+
+.statustextSuccess{
+    font-size: 10px;
+    color: green;
+}
+
+.formComponent{
+    margin: 10px;
+}
